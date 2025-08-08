@@ -60,5 +60,5 @@ In essence, NEURO–TRADE is not just a stock price predictor — it is a compre
 Author
 Shlok Shoorveer Singh Chauhan
 Contact: ssschauhan14@gmail.com
-## 📁 Project Structure
+
 
